@@ -12,25 +12,66 @@ body {
     margin: 0 auto;
 }
 
+body > header {
+    position: relative;
+    margin: 1em 0;
+    text-align: right;
+}
+
+body > header h1 {
+    position: relative;
+    margin: 0.5em;
+    font-family: 'Love Ya Like A Sister',cursive;
+    color: #cfddf3;
+}
+
 #main {
     display: flex;
     background: url(/images/textured_paper.png) #fcfbf7;
+    margin-bottom: 3em;
+}
+
+#summaries {
+    width: 100%;
+    padding-bottom: 3em;
+}
+
+#summaries > h1 {
+    margin: 2.5rem 2rem 0;
+    padding-bottom: 0.4em;
+    border-bottom: 1px solid #ac885e;
+}
+
+#summaries > article {
+    padding: 1em 2em;
+    border-bottom: 1px solid #ac885e;
 }
 
 article {
     text-align: justify;
+    padding: 2em;
     flex: 1;
-    padding: 0em 4em;
 }
 
-article:first-child {
-    padding-top: 2em;
+h1, h2, h3, h4, h5, h6 {
+    font-family: Lusitana,serif;
 }
 
-article:last-child {
-    padding-bottom: 2em;
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    text-decoration: none;
 }
 
-h2 {
-    font-size: 24px;
+h1 a, h1 a:visited, h2 a, h2 a:visited, h3 a, h3 a:visited, h4 a, h4 a:visited,
+h5 a, h5 a:visited, h6 a, h6 a:visited {
+    color: inherit;
+}
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+    text-decoration: underline;
+    color: #cf4078;
+}
+
+a:visited {
+    transition: color .1s linear;
+    color: #4078cf;
 }
