@@ -1,0 +1,12 @@
+{{ partial "header.html" }}
+
+<div id="summaries">
+    {{ range .Data.Pages }}
+    <article>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        {{ .Summary }}
+    </article>
+    {{ end }}
+</div>
+
+{{ partial "footer.html" }}
