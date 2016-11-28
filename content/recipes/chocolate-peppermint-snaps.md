@@ -5,6 +5,10 @@ date = "2016-11-27T20:53:05-06:00"
 
 +++
 
+Basically Girl Scout thin mints without the fudge shell.
+
+<!--more-->
+
 ## Ingredients
 
 * 3/4 cup (12 tablespoons) unsalted butter
