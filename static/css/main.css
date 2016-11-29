@@ -49,6 +49,14 @@ article {
     flex: 1;
 }
 
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
 hr {
     border: 1px solid #ac885e;
 }
