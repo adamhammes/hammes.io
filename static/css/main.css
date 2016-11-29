@@ -31,7 +31,7 @@ body > header h1 {
     margin-bottom: 3em;
 }
 
-#summaries {
+#summaries, #content {
     width: 100%;
     padding-bottom: 3em;
 }
