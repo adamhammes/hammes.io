@@ -2,7 +2,7 @@
 type = "index"
 +++
 
-# Hi! I'm Adam Hammes
+# Hi! I'm Adam Hammes.
 
 I study Computer Science and French at Iowa State University.
 

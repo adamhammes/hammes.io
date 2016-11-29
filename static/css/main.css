@@ -31,30 +31,30 @@ body > header h1 {
     margin-bottom: 3em;
 }
 
-#summaries, #content {
+#content {
     width: 100%;
-    padding-bottom: 3em;
+    padding: 2em;
 }
 
-#summaries > h1 {
-    margin: 2.5rem 2rem 0;
-    padding-bottom: 0.4em;
-    border-bottom: 1px solid #ac885e;
+#content > article {
+    margin: 2em 0;
 }
 
-#summaries > article {
-    padding: 1em 2em;
-    border-bottom: 1px solid #ac885e;
+#content > article:last-child {
+    margin-bottom: 1em;
 }
 
 article {
     text-align: justify;
-    padding: 2em;
     flex: 1;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: Lusitana,serif;
+hr {
+    border: 1px solid #ac885e;
+}
+
+a {
+    font-size: inherit;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
