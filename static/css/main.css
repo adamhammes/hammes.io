@@ -40,10 +40,6 @@ body > header h1 {
     margin: 2em 0;
 }
 
-#content > article:last-child {
-    margin-bottom: 1em;
-}
-
 article {
     text-align: justify;
     flex: 1;
