@@ -2,12 +2,8 @@
 draft = true
 date = "2016-11-27T20:53:17-06:00"
 title = "Teriyaki Chicken Marinade"
-
+description = "An easy-to-prepare chicken marinade."
 +++
-
-An easy-to-prepare chicken marinade.
-
-<!--more-->
 
 ## Ingredients
 

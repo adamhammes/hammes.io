@@ -2,12 +2,8 @@
 title = "Chocolate Peppermint Snaps"
 draft = true
 date = "2016-11-27T20:53:05-06:00"
-
+description = "Basically Girl Scout thin mints without the fudge shell."
 +++
-
-Basically Girl Scout thin mints without the fudge shell.
-
-<!--more-->
 
 ## Ingredients
 

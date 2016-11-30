@@ -2,10 +2,9 @@
 title = "Honey Cornbread Muffins"
 draft = true
 date = "2016-11-27T20:45:05-06:00"
-
+description = "Much sweeter than the store-bought mix, with a cake-like texture."
 +++
 
-Much sweeter than the store-bought mix, with a cake-like texture.
 
 <!--more-->
 

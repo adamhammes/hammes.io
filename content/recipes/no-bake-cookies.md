@@ -2,12 +2,8 @@
 title = "No-Bake Cookies"
 draft = true
 date = "2016-11-27T20:51:10-06:00"
-
+description = "A peanut butter/chocolate/oats smorgasbord cooked on the stovetop."
 +++
-
-A peanut butter/chocolate/oats smorgasbord cooked on the stovetop.
-
-<!--more-->
 
 ## Ingredients
 
