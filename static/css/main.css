@@ -81,3 +81,13 @@ a:visited {
     transition: color .1s linear;
     color: #4078cf;
 }
+
+@media (max-width: 600px) {
+    #content {
+        padding: 1em;
+    }
+
+    #main {
+        margin-bottom: 2em;
+    }
+}
