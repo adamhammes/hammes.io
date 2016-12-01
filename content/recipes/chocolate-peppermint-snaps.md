@@ -1,7 +1,7 @@
 +++
 title = "Chocolate Peppermint Snaps"
-draft = true
-date = "2016-11-27T20:53:05-06:00"
+draft = false
+date = "2016-11-30T21:40:27-06:00"
 description = "Basically Girl Scout thin mints without the fudge shell."
 +++
 

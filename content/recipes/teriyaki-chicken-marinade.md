@@ -1,6 +1,6 @@
 +++
-draft = true
-date = "2016-11-27T20:53:17-06:00"
+draft = false
+date = "2016-11-25T21:41:07-06:00"
 title = "Teriyaki Chicken Marinade"
 description = "An easy-to-prepare chicken marinade."
 +++
