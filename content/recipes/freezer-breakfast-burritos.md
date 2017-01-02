@@ -1,7 +1,7 @@
 +++
 title = "Freezer Breakfast Burritos"
-draft = true
-date = "2017-01-02T13:32:20-06:00"
+draft = false
+date = "2017-01-02T13:45:25-06:00"
 description = "Freezer-ready breakfast burritos bursting with vegetables."
 
 +++
