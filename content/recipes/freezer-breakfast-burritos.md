@@ -8,26 +8,25 @@ description = "Freezer-ready breakfast burritos bursting with vegetables."
 
 ## Ingredients
 
-* 3 Tbsp of Vegetable Oil
-* 1 Cup of Chorizo Sausage
-* 3 Cloves of Garlic
-* 1 Cup of Onion
-* 5 Cups of Potatos (Cubed)
-* 2 Cups of Bell Pepper
-* 1 Tbsp of Salt
-* 1 Tbsp of Cumin
-* 1 Tbsp of Cayenne
-* 1 Tbsp of Paprika
-* 2 Cup of Black Beans (1 Can Drained)
-* 1 Cup of Fozen Corn
-* 1 Dozen Eggs (Scrambled)
-* 2 Cups of Shredded Cheese
-* 10 Tortilla Wraps
+* 1 tbsp vegetable oil
+* 1 cup sausage
+* 3 cloves garlic
+* 1 cup onion
+* 5 cups potatoes (cubed)
+* 2 cups bell pepper
+* 1 tbsp salt
+* 1 tbsp cumin
+* 1 tbsp cayenne
+* 1 tbsp caprika
+* 2 cups black Beans (1 can drained)
+* 1 cup of frozen corn
+* 1 dozen eggs (scrambled)
+* 2 cups shredded cheese
+* 10 tortilla wraps
 
 ## Instructions:
 
-1. Heat up 1 tbsp of vegetable oil on medium hight heat in a large pan.
-Fry sausage till browned and cooked through.
+1. Fry sausage till browned and cooked through.
 Remove from heat keeping fat in pan.
 
 2. Bring heat to high and add another tbsp of oil, and the chopped onion.
@@ -39,10 +38,7 @@ Then add beans, frozen corn, and cooked sausage.
 Let cook for a couple minutes till cooked through.
 Remove hash mixture from heat into a bowl.
 
-4. Clean the pan and add 1 tbsp of oil on medium high heat.
-Add whisked eggs and let set (become solid).
-Once set, continue to move the eggs with your spatula just allowing enough time for the eggs to set.
-Cook till eggs are set.
+4. Scramble the eggs.
 
 5. Heat up tortilla shells to make them pliable.
 Add 1/10th of the hash mixture, eggs and cheese to tortilla and wrap by pulling the food from the top to bottom, tucking the sides in and rolling the rest.
