@@ -14,20 +14,20 @@ La liste résumée, sans ordre particulier :
 
 ## My Baby Just Cares For Me - Nina Simone
 
-Une de mes chansons favories ; une mélodie lente et calme, parfaite pour se relaxer plus tard dans la soirée.
+Une de mes chansons favorites ; une mélodie lente et calme, parfaite pour se relaxer plus tard pendant la soirée.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eYSbUOoq4Vg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## The Lion Sleeps Tonight - The Tokens
 
-Pas une chanson du "swing" traditionel, mais elle offre plusieures à des danseurs de montre leur créativité et leur musicalité.
+Pas une chanson de "swing" traditionel, mais elle offre plusieurs opportunités à des danseurs de montrer leur créativité et leur musicalité.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQlByoPdG6c?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Fairytale - Sara Bareilles
 
-Je suis de temps en temps déçue par la manque de nouvelles chansons à des danses.
-Fairytale montre que l'âme de swing perdure à ce jour.
+Je suis de temps en temps déçu par le manque de nouvelles chansons à des soirées de danse.
+Fairytale montre que l'âme du swing perdure à ce jour.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RlFRMM87IU8?rel=0" frameborder="0" allowfullscreen></iframe>
 
