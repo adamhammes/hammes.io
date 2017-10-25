@@ -11,7 +11,6 @@ La liste résumée, sans ordre particulier :
 * The Lion Sleeps Tonight - The Tokens
 * Fairytale - Sara Bareilles
 * Frantonality - Erroll Garner
-* Jordu - Clifford Brown & Max Roach
 
 ## My Baby Just Cares For Me - Nina Simone
 
@@ -34,15 +33,8 @@ Fairytale montre que l'âme de swing perdure à ce jour.
 
 ## Frantonality - Erroll Garner
 
-Retournant à un style plus classique, Frantonality est la meilleure chanson que je n'ai jamais entendue à une danse.
+Finalement, on retourne à un style plus classique. Frantonality est la meilleure chanson que je n'ai jamais entendue à une danse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tU9YLWLvbmM?rel=0" frameborder="0" allowfullscreen></iframe>
-
-## Jordu - Clifford Brown & Max Roach
-
-Enfin et surtout, Jordu est une experience à ne pas rater.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GslhRUBgXNI?rel=0" frameborder="0" allowfullscreen></iframe>
-
 
 
