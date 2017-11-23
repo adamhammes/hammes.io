@@ -1,37 +1,15 @@
-html {
-    background: url(/images/concrete_seamless.png) #131f31;
-}
-
 body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(52, 73, 94); 
     width: 100%;
     max-width: 40em;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
     font-size: 16px;
-    color: #222;
     margin: 0 auto;
 }
 
 p, li {
     line-height: 1.5;
-}
-
-body > header {
-    position: relative;
-    margin: 1em 0;
-    text-align: right;
-}
-
-body > header h1 {
-    position: relative;
-    margin: 0.5em;
-    font-family: 'Love Ya Like A Sister',cursive;
-    color: #cfddf3;
-}
-
-#main {
-    display: flex;
-    background: url(/images/textured_paper.png) #fcfbf7;
-    margin-bottom: 3em;
 }
 
 #content {
@@ -44,7 +22,7 @@ body > header h1 {
 }
 
 article {
-    text-align: justify;
+    text-align: left;
     flex: 1;
 }
 
@@ -61,6 +39,7 @@ hr {
 }
 
 a {
+    color: #42b983;
     font-size: inherit;
 }
 
@@ -78,8 +57,7 @@ h5 a, h5 a:visited, h6 a, h6 a:visited {
 }
 
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
-    text-decoration: underline;
-    color: #cf4078;
+    text-decoration: none;
 }
 
 a:visited {
