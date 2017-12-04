@@ -4,11 +4,6 @@ GREEN='\033[0;32m'
 RED='\033[0;31m'
 NC='\033[0m'
 
-if [ -n "$(git status --porcelain --ignore-submodules=dirty)" ]; then
-    printf "${RED}Uncommited changes - aborting.\n${NC}"
-    exit 1
-fi
-
 hugo
 
 # Add changes to git
