@@ -24,7 +24,7 @@ Immediately remove from heat once the popping slows to two or three seconds betw
 
 3. Melt the butter in a frying pan over medium heat.
 Swirl occasionally.
-As the butter melt, it will begin to foam and the color will progress from lemony-yellow to golden-tan to a toasty-brown.
+As the butter melts, it will begin to foam and the color will progress from lemony-yellow to golden-tan to a toasty-brown.
 Once you start smelling a nutty aroma, take the pan off the heat and scrape the butter (including any brown bits) into a heatproof bowl.
 
 4. Add the honey and salt to the butter and stir continuously until well-mixed.
